@@ -13,3 +13,12 @@ Sistem memungkinkan pengguna untuk:
 ## User Roles
 - Customer
 - Admin
+
+## Functional Requirements
+FR-01: User dapat login
+FR-02: User dapat melihat menu
+FR-03: User dapat melakukan pemesanan
+
+## Non-Functional Requirements
+NFR-01: Sistem cepat
+NFR-02: Sistem aman
