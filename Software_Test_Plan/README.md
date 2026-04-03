@@ -24,9 +24,9 @@ Semua fitur berjalan dengan baik sesuai kebutuhan user.
 | 2  | Sistem menampilkan form registrasi  | OK    | Halaman register tampil    |
 | 3  | User dapat menginput data diri      | OK    | Input berjalan dengan baik |
 | 4  | User dapat memilih menu create akun | OK    | Tombol daftar berfungsi    |
-| 5  | Sistem menampilkan verifikasi email | OK    | Disimulasikan              |
-| 6  | User menginput kode verifikasi      | OK    | Disimulasikan              |
-| 7  | Sistem menyimpan data ke database   | OK    | Disimulasikan (frontend)   |
+| 5  | Sistem menampilkan verifikasi email | NO    | Disimulasikan              |
+| 6  | User menginput kode verifikasi      | NO    | Disimulasikan              |
+| 7  | Sistem menyimpan data ke database   | NO    | Disimulasikan (frontend)   |
 | 8  | User dapat memilih cancel           | OK    | Kembali ke halaman login   |
 | 9  | Sistem menampilkan halaman utama    | OK    | Redirect sederhana         |
 
