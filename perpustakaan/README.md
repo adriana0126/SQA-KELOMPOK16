@@ -64,4 +64,4 @@ Pengujian dilakukan terhadap seluruh fitur utama seperti login, register, verifi
 2. Simpan project ke folder htdocs
 3. Import database ke phpMyAdmin
 4. Jalankan project melalui browser:
-   http://localhost/perpustakaan
+   http://localhost/SQA-KELOMPOK16/perpustakaan
