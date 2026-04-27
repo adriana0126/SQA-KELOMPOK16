@@ -1,6 +1,6 @@
 # 📚 Sistem Perpustakaan Berbasis Web
 
-Project ini merupakan aplikasi perpustakaan berbasis web yang dibuat menggunakan PHP, MySQL, dan Bootstrap sebagai bagian dari tugas mata kuliah Software Quality. Sistem ini bertujuan untuk membantu proses pengelolaan peminjaman buku secara digital sehingga lebih efisien dibandingkan dengan sistem manual.
+Project ini merupakan aplikasi perpustakaan berbasis web yang dibuat menggunakan PHP, MySQL, dan Bootstrap sebagai bagian dari tugas mata kuliah Software Quality. Sistem ini bertujuan untuk membantu proses pengelolaan peminjaman buku secara digital sehingga lebih efisien dibandingkan  sistem manual.
 
 ## 🎯 Deskripsi Sistem
 
