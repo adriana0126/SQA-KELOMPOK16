@@ -64,14 +64,6 @@ Pengujian dilakukan terhadap seluruh fitur utama seperti login, register, verifi
 - Software_Test_Plan
 - Software_User_Documentations
 
-## ▶️ Cara Menjalankan Project
-
-1. Install XAMPP
-2. Simpan project ke folder htdocs
-3. Import database ke phpMyAdmin
-4. Jalankan project melalui browser:
-   http://localhost/SQA-KELOMPOK16/perpustakaan
-
 ## 👥 Tim Penyusun 
 
 1. Adriana Putra Pratama Kusunmah
