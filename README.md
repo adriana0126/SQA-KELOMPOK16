@@ -17,7 +17,7 @@ Sistem ini memiliki beberapa fitur utama, antara lain:
 - Riwayat Peminjaman
 - Admin Panel
 - Search & Pagination
-- Show Password
+- Lihat password
 
 ## 👥 Role User
 
