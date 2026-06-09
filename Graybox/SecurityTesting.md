@@ -3,7 +3,7 @@
 ## Tujuan
 Menguji keamanan dasar Sistem Informasi Perpustakaan.
 
-| No | Skenario Pengujian | Hasil Yang Diharapkan |
+| No | Skenario Pengujian | Hasil  |
 |----|-------------------|----------------------|
 | 1 | SQL Injection pada Login | Ditolak sistem |
 | 2 | Input Script HTML pada Register | Tidak dieksekusi |
