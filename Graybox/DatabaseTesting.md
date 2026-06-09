@@ -3,7 +3,7 @@
 ## Tujuan
 Menguji interaksi aplikasi dengan database perpustakaan.
 
-| No | Skenario Pengujian | Hasil Yang Diharapkan |
+| No | Skenario Pengujian | Hasil |
 |----|-------------------|----------------------|
 | 1 | Registrasi anggota baru | Data tersimpan di database |
 | 2 | Login anggota | Data dibaca dari database |
