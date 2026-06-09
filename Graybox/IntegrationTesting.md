@@ -3,7 +3,7 @@
 ## Tujuan
 Menguji integrasi antar modul dalam Sistem Informasi Perpustakaan.
 
-| No | Skenario Pengujian | Hasil Yang Diharapkan |
+| No | Skenario Pengujian | Hasil |
 |----|-------------------|----------------------|
 | 1 | Login menuju Dashboard | Berhasil |
 | 2 | Dashboard menuju Peminjaman Buku | Berhasil |
