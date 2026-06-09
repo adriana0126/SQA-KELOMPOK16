@@ -3,7 +3,7 @@
 ## Tujuan
 Menguji pengelolaan session pada Sistem Informasi Perpustakaan.
 
-| No | Skenario Pengujian | Hasil Yang Diharapkan |
+| No | Skenario Pengujian | Hasil |
 |----|-------------------|----------------------|
 | 1 | Login dengan akun valid | Session terbentuk |
 | 2 | Logout | Session terhapus |
