@@ -1,12 +1,12 @@
-# 📚 Sistem Perpustakaan Berbasis Web
+# Sistem Perpustakaan Berbasis Web
 
 Project ini merupakan aplikasi perpustakaan berbasis web yang dibuat menggunakan PHP, MySQL, dan Bootstrap sebagai bagian dari tugas mata kuliah Software Quality. Sistem ini bertujuan untuk membantu proses pengelolaan peminjaman buku secara digital sehingga lebih efisien dibandingkan dengan sistem manual.
 
-## 🎯 Deskripsi Sistem
+## Deskripsi Sistem
 
 Sistem perpustakaan ini memungkinkan pengguna untuk melakukan registrasi akun, login, meminjam buku, serta mengajukan pengembalian. Proses pengembalian tidak dilakukan secara langsung oleh user, melainkan harus melalui konfirmasi dari admin untuk mencegah manipulasi data. Sistem ini juga dilengkapi dengan fitur verifikasi email untuk memastikan validitas pengguna.
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 Sistem ini memiliki beberapa fitur utama, antara lain:
 - Login & Register
@@ -19,7 +19,7 @@ Sistem ini memiliki beberapa fitur utama, antara lain:
 - Search & Pagination
 - Show Password
 
-## 👥 Role User
+## Role User
 
 Dalam sistem ini terdapat dua jenis pengguna, yaitu:
 
@@ -34,7 +34,7 @@ Admin:
 - Mengkonfirmasi pengembalian buku
 - Monitoring sistem
 
-## 🗄️ Database
+## Database
 
 Sistem menggunakan database MySQL dengan dua tabel utama, yaitu:
 - users
@@ -43,28 +43,28 @@ Sistem menggunakan database MySQL dengan dua tabel utama, yaitu:
 Relasi antara tabel:
 - users.id → peminjaman.user_id
 
-## 🔄 Alur Sistem
+## Alur Sistem
 
 Alur sistem dimulai dari proses registrasi akun oleh user, kemudian dilakukan verifikasi email. Setelah itu user dapat login ke dalam sistem dan melakukan peminjaman buku. Jika user ingin mengembalikan buku, maka user harus mengajukan permintaan pengembalian terlebih dahulu. Admin kemudian akan melakukan konfirmasi pengembalian tersebut. Sistem juga dapat menghitung denda apabila terjadi keterlambatan pengembalian.
 
-## 🧪 Pengujian Sistem
+## Pengujian Sistem
 
 Pengujian dilakukan terhadap seluruh fitur utama seperti login, register, verifikasi email, peminjaman buku, pengembalian buku, admin panel, search, pagination, dan show password. Berdasarkan hasil pengujian, seluruh fitur berjalan dengan baik sesuai dengan kebutuhan sistem.
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - PHP Native
 - MySQL Database
 - Bootstrap 5
 - XAMPP
-## 📁 Struktur Repository
+## Struktur Repository
 
 - Software_Design_Dokumen
 - Software_Requirements_Specification
 - Software_Test_Plan
 - Software_User_Documentations
 
-## 👥 Tim Penyusun 
+## Tim Penyusun 
 
 1. Adriana Putra Pratama Kusunmah
 2. Marwan Setyadi
